@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ISO639ToJson": {
+      "commandName": "Project",
+      "commandLineArgs": "Native"
+    }
+  }
+}
